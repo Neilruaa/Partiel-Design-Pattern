@@ -45,6 +45,8 @@ jspm_packages/
 web_modules/
 
 # TypeScript cache
+.workflow/
+.github/
 *.tsbuildinfo
 
 # Optional npm cache directory
